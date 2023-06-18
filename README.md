@@ -2,8 +2,8 @@
 
 My Name is Yougnjin Ko, Computer Science graduate based in South Korea. You can also refer my full resume which uploaded in my website.
 
-<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing"target="_blank"><img src="https://img.shields.io/badge/View My Resume-#0061FF?style=flat-square&logo=Dropbox&logoColor=white"/></a>
-<a href="https://helloblankworld.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing"target="_blank">View My Resume</a>
+<a href="https://helloblankworld.tistory.com/" target="_blank">Tistory Blog</a>
 
 ## Education
 * York University - BSc. Hons. Computer Science (2016~2022)
