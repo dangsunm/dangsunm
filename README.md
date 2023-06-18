@@ -2,7 +2,7 @@
 
 My Name is Yougnjin Ko, Computer Science graduate based in South Korea. You can also refer my full resume which uploaded in my website.
 
-<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing"target="_blank">View My Resume</a>
+<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing">View My Resume</a>
 <a href="https://helloblankworld.tistory.com/" target="_blank">Tistory Blog</a>
 
 ## Education
