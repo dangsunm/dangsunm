@@ -2,7 +2,7 @@
 
 My Name is Yougnjin Ko, Computer Science graduate based in South Korea. You can also refer my full resume which uploaded in my website.
 
-<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View My Resume-#0061FF?style=flat-square&logo=Dropbox&logoColor=white"/></a>
+<a href="https://drive.google.com/drive/folders/1BPaC0OzbfCm4lW--hpbCD30smRVLko6X?usp=sharing"target="_blank"><img src="https://img.shields.io/badge/View My Resume-#0061FF?style=flat-square&logo=Dropbox&logoColor=white"/></a>
 <a href="https://helloblankworld.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-#000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 ## Education
@@ -35,6 +35,9 @@ My Name is Yougnjin Ko, Computer Science graduate based in South Korea. You can 
 <a href="mailto:youngjin.ko@youngjinko.me" target="_blank">
  Email me
 </a>
+
+!dangsunm(https://github-readme-stats.vercel.app/api?username=dangsunm&show_icons=true)
+[![dangsunm's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dangsunm&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dangsunm)
 
 <!--
 **dangsunm/dangsunm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
